@@ -1,0 +1,23 @@
+{
+  "name": "mop-code",
+  "version": "1.0.0",
+  "description": "This is a public repository designed for the Chameleon-City of Melbourne Open Data project team to manage their codebase and artifacts for development and deployment of the Melbourne Open Data Playground and associated Public GitHub Repository(MOP).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chameleon-company/MOP-Code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chameleon-company/MOP-Code/issues"
+  },
+  "homepage": "https://github.com/Chameleon-company/MOP-Code#readme",
+  "dependencies": {
+    "applicationinsights": "^2.9.5",
+    "prettier": "^3.2.5"
+  }
+}
